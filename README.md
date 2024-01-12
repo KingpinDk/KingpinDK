@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+  <div classname = ""><img alt="DharaniKumaran" src="https://avatars.githubusercontent.com/u/118034679?v=4"><div/>
+</picture>
+
 <!--
 **KingpinDk/KingpinDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
 </picture>
 
-• 🔭 I’m currently working on Open Source
+• 🔭 I’m currently working on Open Source Projects
 
 • 🌱 I’m currently learning Three.js
 
@@ -19,4 +19,4 @@
 <!--• 📫 How to reach me: 
       <i><i/>
 • 😄 Pronouns: ...-->
-• ⚡ Fun fact: 93% of People visit this will definitely reach out to me. Let's Build together
+• ⚡ Fun fact: 93% of People who visit this page will definitely reach out to me. Don't be shy. Let's Build together I mean projects!!!

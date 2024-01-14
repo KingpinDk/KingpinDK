@@ -7,10 +7,15 @@
 </picture>
 
 • 🔭 I’m currently working on Open Source
+
 • 🌱 I’m currently learning Three.js
+
 • 👯 I’m looking to collaborate on wonderful projects related to Flutter.
+
 • 🤔 I’m looking for help with Three.js
+
 • 💬 Ask me about Flutter App Development
+
 <!--• 📫 How to reach me: 
       <i><i/>
 • 😄 Pronouns: ...-->
